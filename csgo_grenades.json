@@ -1366,19 +1366,6 @@
       "yaw": "-60.0659"
     },
     {
-      "id": "106",
-      "map": "de_mirage",
-      "name": "Connector to Underpass",
-      "description": "unused",
-      "grenade": "weapon_smokegrenade",
-      "throwType": "RUN",
-      "x": "-807.969",
-      "y": "-1239.97",
-      "z": "-103.906",
-      "pitch": "-1.66319",
-      "yaw": "48.5022"
-    },
-    {
       "id": "107",
       "map": "de_mirage",
       "name": "Back of Top Mid to Connector",
@@ -1403,19 +1390,6 @@
       "z": "24.0938",
       "pitch": "-9.94947",
       "yaw": "-131.947"
-    },
-    {
-      "id": "109",
-      "map": "de_mirage",
-      "name": "Under Balcony to A Ramp",
-      "description": "unused",
-      "grenade": "weapon_flashbang",
-      "throwType": "NORMAL",
-      "x": "151.301",
-      "y": "-1912.03",
-      "z": "-103.906",
-      "pitch": "-0.683064",
-      "yaw": "-159.271"
     },
     {
       "id": "110",
@@ -1470,19 +1444,6 @@
       "yaw": "101.522"
     },
     {
-      "id": "114",
-      "map": "de_mirage",
-      "name": "A Palace to Under Balcony",
-      "description": "unused",
-      "grenade": "weapon_molotov",
-      "throwType": "NORMAL",
-      "x": "16.0312",
-      "y": "-2375.91",
-      "z": "24.0938",
-      "pitch": "3.48676",
-      "yaw": "74.9113"
-    },
-    {
       "id": "115",
       "map": "de_mirage",
       "name": "T Roof to Sandwich",
@@ -1524,7 +1485,7 @@
     {
       "id": "118",
       "map": "de_overpass",
-      "name": "short",
+      "name": "Short",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1537,7 +1498,7 @@
     {
       "id": "119",
       "map": "de_overpass",
-      "name": "B site",
+      "name": "B Site",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1550,7 +1511,7 @@
     {
       "id": "120",
       "map": "de_overpass",
-      "name": "barrels",
+      "name": "Barrels",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1563,7 +1524,7 @@
     {
       "id": "121",
       "map": "de_overpass",
-      "name": "balcony",
+      "name": "Balcony",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1576,7 +1537,7 @@
     {
       "id": "122",
       "map": "de_overpass",
-      "name": "barrels2",
+      "name": "Barrely",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1602,7 +1563,7 @@
     {
       "id": "124",
       "map": "de_overpass",
-      "name": "B site",
+      "name": "B Site",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1639,19 +1600,6 @@
       "yaw": "59.7699"
     },
     {
-      "id": "127",
-      "map": "de_inferno",
-      "name": "-",
-      "description": "unused",
-      "grenade": "weapon_smokegrenade",
-      "throwType": "",
-      "x": "-656.03",
-      "y": "457.27",
-      "z": "32.75",
-      "pitch": "-42.47",
-      "yaw": "1.09"
-    },
-    {
       "id": "128",
       "map": "de_inferno",
       "name": "Smoke Spools B Plant",
@@ -1680,7 +1628,7 @@
     {
       "id": "130",
       "map": "de_inferno",
-      "name": "Fnatic Smoke B Plant",
+      "name": "B Plant 1 (FNATIC)",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1693,7 +1641,7 @@
     {
       "id": "131",
       "map": "de_inferno",
-      "name": "Fnatic Smoke 2 B Plant Grill",
+      "name": "B Plant 2 Grill (FNATIC)",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1706,7 +1654,7 @@
     {
       "id": "132",
       "map": "de_inferno",
-      "name": "Smoke Long",
+      "name": "Long",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1719,7 +1667,7 @@
     {
       "id": "133",
       "map": "de_inferno",
-      "name": "Smoke Balcony",
+      "name": "Balcony",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1732,7 +1680,7 @@
     {
       "id": "134",
       "map": "de_inferno",
-      "name": "Smoke Back Pit",
+      "name": "Back Pit",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1745,7 +1693,7 @@
     {
       "id": "135",
       "map": "de_inferno",
-      "name": "Smoke Front Pit",
+      "name": "Front Pit",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1758,7 +1706,7 @@
     {
       "id": "136",
       "map": "de_inferno",
-      "name": "Smoke Long",
+      "name": "Long",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1771,7 +1719,7 @@
     {
       "id": "137",
       "map": "de_inferno",
-      "name": "Smoke Minipit",
+      "name": "Minipit",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1784,7 +1732,7 @@
     {
       "id": "138",
       "map": "de_inferno",
-      "name": "Smoke Short",
+      "name": "Short",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1797,7 +1745,7 @@
     {
       "id": "139",
       "map": "de_inferno",
-      "name": "Smoke Archway",
+      "name": "Archway",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1810,7 +1758,7 @@
     {
       "id": "140",
       "map": "de_inferno",
-      "name": "Smoke Library",
+      "name": "Library",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1823,7 +1771,7 @@
     {
       "id": "141",
       "map": "de_inferno",
-      "name": "Smoke Balcony",
+      "name": "Balcony",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1836,7 +1784,7 @@
     {
       "id": "142",
       "map": "de_inferno",
-      "name": "Smoke Deep Long",
+      "name": "Deep Long",
       "description": "unused",
       "grenade": "weapon_smokegrenade",
       "throwType": "NORMAL",
@@ -1871,6 +1819,114 @@
       "z": "313.65",
       "pitch": "-37.61",
       "yaw": "158.63"
+    },
+    {
+      "map": "de_mirage",
+      "name": "T Roof to Ladder",
+      "description": "unused",
+      "grenade": "weapon_smokegrenade",
+      "throwType": "JUMP",
+      "x": "1145.08",
+      "y": "-1176.2",
+      "z": "-142.35",
+      "pitch": "-32.44",
+      "yaw": "154.28"
+    },
+    {
+      "map": "de_mirage",
+      "name": "Mid to Sniper's Nest",
+      "description": "unused",
+      "grenade": "weapon_smokegrenade",
+      "throwType": "NORMAL",
+      "x": "360.08",
+      "y": "-691.97",
+      "z": "-98.5",
+      "pitch": "-32.53",
+      "yaw": "178.61"
+    },
+    {
+      "map": "de_mirage",
+      "name": "CT to Mid",
+      "description": "unused",
+      "grenade": "weapon_flashbang",
+      "throwType": "NORMAL",
+      "x": "-1668.9",
+      "y": "-1092.42",
+      "z": "-123.97",
+      "pitch": "-47.33",
+      "yaw": "23.46"
+    },
+    {
+      "map": "de_mirage",
+      "name": "Alley to B Default",
+      "description": "unused",
+      "grenade": "weapon_smokegrenade",
+      "throwType": "JUMP",
+      "x": "-152.12",
+      "y": "353.03",
+      "z": "29.14",
+      "pitch": "-47.58",
+      "yaw": "178.95"
+    },
+    {
+      "map": "de_mirage",
+      "name": "Alley to Market Window",
+      "description": "unused",
+      "grenade": "weapon_smokegrenade",
+      "throwType": "JUMP",
+      "x": "-160.03",
+      "y": "887.97",
+      "z": "-71.33",
+      "pitch": "-50.38",
+      "yaw": "-146.49"
+    },
+    {
+      "map": "de_mirage",
+      "name": "Alley to Market Door",
+      "description": "unused",
+      "grenade": "weapon_smokegrenade",
+      "throwType": "JUMP",
+      "x": "-160.03",
+      "y": "887.97",
+      "z": "-71.33",
+      "pitch": "-45.01",
+      "yaw": "-152.88"
+    },
+    {
+      "map": "de_mirage",
+      "name": "Connector to Underpass",
+      "description": "unused",
+      "grenade": "weapon_smokegrenade",
+      "throwType": "RUN",
+      "x": "-807.97",
+      "y": "-1235.97",
+      "z": "-103.97",
+      "pitch": "6.94",
+      "yaw": "48.2"
+    },
+    {
+      "map": "de_mirage",
+      "name": "A Palace to Under Balcony",
+      "description": "unused",
+      "grenade": "weapon_molotov",
+      "throwType": "NORMAL",
+      "x": "16.03",
+      "y": "-2359.99",
+      "z": "24.03",
+      "pitch": "9.71",
+      "yaw": "73.4"
+    },
+    {
+      "map": "de_mirage",
+      "name": "Under Balcony to A Ramp",
+      "description": "unused",
+      "grenade": "weapon_flashbang",
+      "throwType": "NORMAL",
+      "x": "151",
+      "y": "-1914.02",
+      "z": "-103.97",
+      "pitch": "-0.8",
+      "yaw": "-161.85"
     }
   ]
 }
