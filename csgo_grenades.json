@@ -1927,6 +1927,102 @@
       "z": "-103.97",
       "pitch": "-0.8",
       "yaw": "-161.85"
-    }
+    },
+    {
+		  "map": "de_mirage",
+		  "name": "Under Balcony to A Ramp (Popflash)",
+		  "description": "unused",
+		  "grenade": "weapon_flashbang",
+		  "throwType": "RUN",
+		  "x": "150.97",
+		  "y": "-1914.03",
+		  "z": "-103.97",
+		  "pitch": "-46.37",
+		  "yaw": "-104.83"
+		},
+		{
+		  "map": "de_mirage",
+		  "name": "Under Balcony to A Ramp",
+		  "description": "unused",
+		  "grenade": "weapon_flashbang",
+		  "throwType": "NORMAL",
+		  "x": "-44.65",
+		  "y": "-1922.03",
+		  "z": "-103.97",
+		  "pitch": "-13.1",
+		  "yaw": "104.1"
+		},
+		{
+		  "map": "de_mirage",
+		  "name": "Balcony to Palace",
+		  "description": "unused",
+		  "grenade": "weapon_flashbang",
+		  "throwType": "NORMAL",
+		  "x": "150.97",
+		  "y": "-2071.97",
+		  "z": "26.03",
+		  "pitch": "-13.56",
+		  "yaw": "104.33"
+		},
+		{
+		  "map": "de_mirage",
+		  "name": "Stairs to A Site",
+		  "description": "unused",
+		  "grenade": "weapon_flashbang",
+		  "throwType": "RUN",
+		  "x": "-496",
+		  "y": "-1331.79",
+		  "z": "-95.97",
+		  "pitch": "-73.78",
+		  "yaw": "91.05"
+		},
+		{
+		  "map": "de_mirage",
+		  "name": "Short to Mid",
+		  "description": "unused",
+		  "grenade": "weapon_flashbang",
+		  "throwType": "JUMP",
+		  "x": "-752.03",
+		  "y": "-52.43",
+		  "z": "-97.88",
+		  "pitch": "-52.99",
+		  "yaw": "-84.4"
+		},
+		{
+		  "map": "de_mirage",
+		  "name": "Truck to B Apartments",
+		  "description": "unused",
+		  "grenade": "weapon_flashbang",
+		  "throwType": "NORMAL",
+		  "x": "-2114.03",
+		  "y": "706.46",
+		  "z": "-70.96",
+		  "pitch": "-1.55",
+		  "yaw": "173"
+		},
+		{
+		  "map": "de_mirage",
+		  "name": "Top Mid to Window",
+		  "description": "unused",
+		  "grenade": "weapon_flashbang",
+		  "throwType": "RUN",
+		  "x": "188.57",
+		  "y": "-53.5",
+		  "z": "-116.21",
+		  "pitch": "-5.95",
+		  "yaw": "91.9"
+		},
+		{
+		  "map": "de_mirage",
+		  "name": "Apartments to Truck",
+		  "description": "unused",
+		  "grenade": "weapon_flashbang",
+		  "throwType": "RUN",
+		  "x": "-1165.97",
+		  "y": "568.98",
+		  "z": "-15.97",
+		  "pitch": "-3.57",
+		  "yaw": "-80.9"
+		}
   ]
 }
